@@ -20,6 +20,16 @@ Follow / Unfollow Users
 
 Edit profile
 
+Authentication with Email & Password
+
+Uploading Videos with Caption
+
+Compressing Videos
+
+Generating Thumbnails Out of Video
+
+Displaying Videos with Caption
+
 ## Setup App
 
 Firebase Panel
