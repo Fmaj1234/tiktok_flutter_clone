@@ -1,16 +1,29 @@
 # tiktok_flutter_clone
 
-A new Flutter project.
+A Tiktok clone app developed using GetX, flutter and firebase.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+Post videos from camera or gallery
 
-A few resources to get you started if this is your first Flutter project:
+Like posts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+View all likes on a post
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Comment on posts
+
+View all comments on a post
+
+Profile Screen
+
+Follow / Unfollow Users
+
+Edit profile
+
+## Setup App
+
+Firebase Panel
+
+Create Firebase Project (https://console.firebase.google.com/);
+
+import the file google-service.json and google service into your project to Android and IOS app respectively
